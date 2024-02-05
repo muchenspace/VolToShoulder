@@ -1,11 +1,11 @@
 # VolToShoulder
-## ½éÉÜ
-½«ÒôÁ¿¼üÓ³ÉäÎª¼ç¼ü(¾ÍÊÇ°´ÏÂÒôÁ¿¼üÔÚÆÁÄ»µÄÄ³¸öÎ»ÖÃµã»÷)
+## ä»‹ç»
+å°†éŸ³é‡é”®æ˜ å°„ä¸ºè‚©é”®(å°±æ˜¯æŒ‰ä¸‹éŸ³é‡é”®åœ¨å±å¹•çš„æŸä¸ªä½ç½®ç‚¹å‡»)
 <br>
-## Ê¹ÓÃ
-ÐÂ½¨Ò»¸öVolToShoulder¶ÔÏó£¬²¢µ÷ÓÃstart·½·¨
+## ä½¿ç”¨
+æ–°å»ºä¸€ä¸ªVolToShoulderå¯¹è±¡ï¼Œå¹¶è°ƒç”¨startæ–¹æ³•
 <br>
-¹¹Ôìº¯Êý²ÎÊýËµÃ÷:
+æž„é€ å‡½æ•°å‚æ•°è¯´æ˜Ž:
 ~~~
-xy:ÒôÁ¿¼ü°´ÏÂÒª°´ÏÂµÄ×ø±ê,path:ÒôÁ¿¼üµÄÊäÈë½Úµã
+xy:éŸ³é‡é”®æŒ‰ä¸‹æ—¶è¦æŒ‰ä¸‹çš„å±å¹•åæ ‡,path:éŸ³é‡é”®çš„è¾“å…¥èŠ‚ç‚¹
 ~~~
